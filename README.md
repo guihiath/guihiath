@@ -37,6 +37,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guihiath/guihiath/output/snake.svg" alt="Snake animation" />
 
 ###
