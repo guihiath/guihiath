@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Atuando na área de Front-end</p>
+<p align="left">💻 Programador Frontend</p>
 
 ###
 
