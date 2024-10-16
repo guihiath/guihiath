@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estudando JavaScript<br>💻 Atuando na área de Front-end</p>
+<p align="left"><br>💻 Atuando na área de Front-end</p>
 
 ###
 
